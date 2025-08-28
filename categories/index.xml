@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 演示站点</title>
+        <link>https://xsz.qzz.io/categories/</link>
+        <description>Recent content in Categories on 演示站点</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://xsz.qzz.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Application</title>
+        <link>https://xsz.qzz.io/categories/application/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/application/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Commonly </title>
+        <link>https://xsz.qzz.io/categories/commonly-/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/commonly-/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Edge</title>
+        <link>https://xsz.qzz.io/categories/edge/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/edge/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Plugins</title>
+        <link>https://xsz.qzz.io/categories/plugins/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/plugins/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Websites</title>
+        <link>https://xsz.qzz.io/categories/websites/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/websites/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Email</title>
+        <link>https://xsz.qzz.io/categories/email/</link>
+        <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/email/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Resend</title>
+        <link>https://xsz.qzz.io/categories/resend/</link>
+        <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/resend/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://xsz.qzz.io/categories/test/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/test/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://xsz.qzz.io/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>语法</title>
+        <link>https://xsz.qzz.io/categories/%E8%AF%AD%E6%B3%95/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/%E8%AF%AD%E6%B3%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>主题</title>
+        <link>https://xsz.qzz.io/categories/%E4%B8%BB%E9%A2%98/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/%E4%B8%BB%E9%A2%98/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>含空格的测试分类</title>
+        <link>https://xsz.qzz.io/categories/%E5%90%AB%E7%A9%BA%E6%A0%BC%E7%9A%84%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/categories/%E5%90%AB%E7%A9%BA%E6%A0%BC%E7%9A%84%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

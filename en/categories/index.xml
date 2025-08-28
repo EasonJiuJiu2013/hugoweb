@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Example Site</title>
+        <link>https://xsz.qzz.io/en/categories/</link>
+        <description>Recent content in Categories on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://xsz.qzz.io/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Application</title>
+        <link>https://xsz.qzz.io/en/categories/application/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/application/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Commonly Used</title>
+        <link>https://xsz.qzz.io/en/categories/commonly-used/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/commonly-used/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Edge</title>
+        <link>https://xsz.qzz.io/en/categories/edge/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/edge/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Plugins</title>
+        <link>https://xsz.qzz.io/en/categories/plugins/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/plugins/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Utilities</title>
+        <link>https://xsz.qzz.io/en/categories/utilities/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/utilities/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Websites</title>
+        <link>https://xsz.qzz.io/en/categories/websites/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/websites/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Email</title>
+        <link>https://xsz.qzz.io/en/categories/email/</link>
+        <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/email/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Resend</title>
+        <link>https://xsz.qzz.io/en/categories/resend/</link>
+        <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/resend/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://xsz.qzz.io/en/categories/test/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/test/</guid>
+        <description>&lt;img src="https://xsz.qzz.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://xsz.qzz.io/en/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Syntax</title>
+        <link>https://xsz.qzz.io/en/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>https://xsz.qzz.io/en/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test With Whitespaces</title>
+        <link>https://xsz.qzz.io/en/categories/test-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/categories/test-with-whitespaces/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

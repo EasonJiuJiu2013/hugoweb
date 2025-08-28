@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Plugins on 演示站点</title>
+        <link>https://xsz.qzz.io/categories/plugins/</link>
+        <description>Recent content in Plugins on 演示站点</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://xsz.qzz.io/categories/plugins/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Edge插件</title>
+        <link>https://xsz.qzz.io/p/edge%E6%8F%92%E4%BB%B6/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/p/edge%E6%8F%92%E4%BB%B6/</guid>
+        <description>&lt;img src="https://xsz.qzz.io/p/edge%E6%8F%92%E4%BB%B6/BB1msMpy.jpeg" alt="Featured image of post Edge插件" /&gt;&lt;h3 id=&#34;插件&#34;&gt;&lt;strong&gt;插件&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://microsoftedge.microsoft.com/addons/detail/%E8%84%9A%E6%9C%AC%E7%8C%AB/liilgpjgabokdklappibcjfablkpcekh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;脚本猫&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://scriptcat.org/zh-CN/script-show-page/2826&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;脚本&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;uBlock Origin&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;篡改猴&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;其他插件&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

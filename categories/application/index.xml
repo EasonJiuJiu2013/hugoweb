@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Application on 演示站点</title>
+        <link>https://xsz.qzz.io/categories/application/</link>
+        <description>Recent content in Application on 演示站点</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://xsz.qzz.io/categories/application/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>常用工具</title>
+        <link>https://xsz.qzz.io/p/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/p/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</guid>
+        <description>&lt;img src="https://xsz.qzz.io/p/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/BB1msMIy.jpeg" alt="Featured image of post 常用工具" /&gt;&lt;h3 id=&#34;开发工具&#34;&gt;开发工具
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.python.org/ftp/python/3.13.6/python-3.13.6-amd64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nodejs.org/dist/v22.18.0/node-v22.18.0-x64.msi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://registry.npmmirror.com/-/binary/git-for-windows/v2.50.1.windows.1/Git-2.50.1-64-bit.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nchc.dl.sourceforge.net/project/mingw-w64/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MinGW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://download.microsoft.com/download/696beb13-858a-4361-bd85-196f22394c93/KIT_BUNDLE_WINDOWSSDK_MEDIACREATION/winsdksetup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Windows SDK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;编辑器ide&#34;&gt;编辑器/IDE
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Thonny&lt;/a&gt; (Python IDE)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://vscode.download.prss.microsoft.com/dbazure/download/stable/488a1f239235055e34e673291fb8d8c810886f81/VSCodeUserSetup-x64-1.102.3.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VS Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://typora.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Typora&lt;/a&gt; (Markdown编辑器)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://download.z.weixin.qq.com/app/win/wetype_installer_official_p_48.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;微信输入法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载网络工具&#34;&gt;下载/网络工具
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dl.motrix.app/release/Motrix-Setup-1.8.19.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Motrix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.neatdownloadmanager.com/file/NeatDM_setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;NDM&lt;/a&gt; (Neat Download Manager)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; (静态网站生成器)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;实用工具&#34;&gt;实用工具
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://geekuninstaller.com/geek.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Geek Uninstaller&lt;/a&gt; (卸载工具)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://gitee.com/rmbgame/SteamTools/releases/download/3.0.0-rc.16/Steam%20%20_v3.0.0-rc.16_win_x64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Watt Toolkit&lt;/a&gt; (Steam++工具箱)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://uu.gdl.netease.com/5101/UU-5.57.0.exe?type=pc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;UU远程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.fosshub.com/Rufus.html?dwl=rufus-4.7.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Rufus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.7-zip.org/a/7z2501-x64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;7-ZIP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;浏览器&#34;&gt;浏览器
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&amp;amp;source=EdgeStablePage&amp;amp;language=zh-cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Microsoft Edge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://download.mozilla.org/?product=firefox-stub&amp;amp;os=win&amp;amp;lang=zh-CN&amp;amp;attribution_code=c291cmNlPShub3Qgc2V0KSZtZWRpdW09KGRpcmVjdCkmY2FtcGFpZ249U0VUX0RFRkFVTFRfQlJPV1NFUiZjb250ZW50PShub3Qgc2V0KSZleHBlcmltZW50PShub3Qgc2V0KSZ2YXJpYXRpb249KG5vdCBzZXQpJnVhPWVkZ2UmY2xpZW50X2lkX2dhND00MDc5MzEzNDMuMTc1NDU1MDE2NiZzZXNzaW9uX2lkPTU4MjQ1ODY3NTYmZGxzb3VyY2U9Znhkb3Rjb20.&amp;amp;attribution_sig=e58f70f40102046ed249e21f78841924e4d1c6b47af073b1ccb7af460d487c66&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Firefox&lt;/a&gt; - &lt;a class=&#34;link&#34; href=&#34;https://www.firefox.com/zh-CN/thanks/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;地址2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dl.google.com/chrome/install/375.126/chrome_installer.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Google Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;通讯&#34;&gt;通讯
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;微信&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.39.6004.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;企业微信&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;其他&#34;&gt;其他
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://cn.bing.com/apps/wallpaper/download&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bing壁纸&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://download.zoho.com.cn/v1/workdrive/download/85aka0b76b14c115040fd85e1c8142dae1c70&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;yt-dlp-gui&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

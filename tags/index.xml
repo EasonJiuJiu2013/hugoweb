@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on 演示站点</title>
+        <link>https://xsz.qzz.io/tags/</link>
+        <description>Recent content in Tags on 演示站点</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://xsz.qzz.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Email</title>
+        <link>https://xsz.qzz.io/tags/email/</link>
+        <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/tags/email/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Resend</title>
+        <link>https://xsz.qzz.io/tags/resend/</link>
+        <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/tags/resend/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Css</title>
+        <link>https://xsz.qzz.io/tags/css/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Html</title>
+        <link>https://xsz.qzz.io/tags/html/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Markdown</title>
+        <link>https://xsz.qzz.io/tags/markdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/tags/markdown/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>主题</title>
+        <link>https://xsz.qzz.io/tags/%E4%B8%BB%E9%A2%98/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/tags/%E4%B8%BB%E9%A2%98/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>含空格的标签</title>
+        <link>https://xsz.qzz.io/tags/%E5%90%AB%E7%A9%BA%E6%A0%BC%E7%9A%84%E6%A0%87%E7%AD%BE/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/tags/%E5%90%AB%E7%A9%BA%E6%A0%BC%E7%9A%84%E6%A0%87%E7%AD%BE/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>文本</title>
+        <link>https://xsz.qzz.io/tags/%E6%96%87%E6%9C%AC/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/tags/%E6%96%87%E6%9C%AC/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>表情符号</title>
+        <link>https://xsz.qzz.io/tags/%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/tags/%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

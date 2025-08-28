@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Example Site</title>
+        <link>https://xsz.qzz.io/en/tags/</link>
+        <description>Recent content in Tags on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://xsz.qzz.io/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Email</title>
+        <link>https://xsz.qzz.io/en/tags/email/</link>
+        <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/tags/email/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Resend</title>
+        <link>https://xsz.qzz.io/en/tags/resend/</link>
+        <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/tags/resend/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Css</title>
+        <link>https://xsz.qzz.io/en/tags/css/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Html</title>
+        <link>https://xsz.qzz.io/en/tags/html/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Markdown</title>
+        <link>https://xsz.qzz.io/en/tags/markdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/tags/markdown/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>https://xsz.qzz.io/en/tags/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/tags/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tag With Whitespaces</title>
+        <link>https://xsz.qzz.io/en/tags/tag-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/tags/tag-with-whitespaces/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Text</title>
+        <link>https://xsz.qzz.io/en/tags/text/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/tags/text/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Emoji</title>
+        <link>https://xsz.qzz.io/en/tags/emoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://xsz.qzz.io/en/tags/emoji/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
